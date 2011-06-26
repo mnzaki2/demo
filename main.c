@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int getRandomNumber(void) {
-    return 4;
+    return 4; // chosen by fair dice roll
+              // guaranteed to be random
 }
 
 int main(){
